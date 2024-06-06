@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prashanth B</h1>
-<h3 align="center">As a passionate and driven individual, I am actively seeking opportunities to take on challenging roles in a dynamic work environment. I am deeply motivated to secure an entry-level position that not only nurtures continuous learning but also fosters personal development. I aspire to join a team where I can grow professionally, gain hands-on experience, and sharpen my skills. Job security is important to me, and I am eager to contribute positively while enhancing my knowledge in a supportive and growth-oriented setting.</h3>
+<h3 align="left">As a passionate and driven individual, I am actively seeking opportunities to take on challenging roles in a dynamic work environment. I am deeply motivated to secure an entry-level position that not only nurtures continuous learning but also fosters personal development. I aspire to join a team where I can grow professionally, gain hands-on experience, and sharpen my skills. Job security is important to me, and I am eager to contribute positively while enhancing my knowledge in a supportive and growth-oriented setting.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pishu0002&label=Profile%20views&color=0e75b6&style=flat" alt="pishu0002" /> </p>
 
